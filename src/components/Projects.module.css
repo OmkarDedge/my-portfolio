@@ -1,0 +1,63 @@
+/* src/components/Projects.module.css */
+
+.section {
+  padding: 20px;
+  margin: 20px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  color: #2c3e50;
+  margin-bottom: 10px;
+}
+
+.projects {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.card {
+  background-color: #ecf0f1;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  flex: 1 0 calc(33.33% - 20px); /* Adjusted width calculation */
+  box-sizing: border-box;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 15px 20px rgba(0, 0, 0, 0.2);
+}
+
+.card h3 {
+  margin-top: 0;
+  color: #2980b9;
+}
+
+.card a {
+  display: inline-block;
+  margin-right: 10px;
+  color: #2980b9;
+  text-decoration: none;
+}
+
+.card a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 992px) {
+  .card {
+    flex: 1 0 calc(50% - 20px); /* Two cards per row on medium screens */
+  }
+}
+
+@media (max-width: 768px) {
+  .card {
+    flex: 1 0 calc(100% - 20px); /* One card per row on smaller screens */
+  }
+}
