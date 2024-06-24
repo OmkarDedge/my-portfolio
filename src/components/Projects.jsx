@@ -156,6 +156,21 @@ const Projects = () => {
             <strong>GitHub</strong>
           </a>{" "}
         </div>
+        <div className={styles.card}>
+          <h3>
+            Collaborative Document Writer
+          </h3>
+          <p>
+           The Collaborative Document Editor is a powerful web-based application that enables multiple users to create, format, and style documents in real-time. Built with a robust technology stack, the backend is developed using Node.js and Express, while the frontend leverages React.js, Quill for rich text editing, and Material UI for a sleek, responsive design. Real-time synchronization of document changes is facilitated by Socket.io, ensuring that all users see updates instantly and changes are securely stored in the database.
+          </p>
+          <a
+            href="https://github.com/OmkarDedge/document-writer"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <strong>GitHub</strong>
+          </a>{" "}
+        </div>
       </div>
     </section>
   );
