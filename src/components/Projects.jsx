@@ -178,7 +178,7 @@ const Projects = () => {
             <strong>GitHub</strong>
           </a>{"   "}
            <a
-            href="https://drive.google.com/file/d/1kXIMGM6032qGolghOpxVGwmazvgBV_hZ/view"
+            href="https://drive.google.com/file/d/1T8P98YQDZxVVITNDlZKb417btrYXlb2J/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >
