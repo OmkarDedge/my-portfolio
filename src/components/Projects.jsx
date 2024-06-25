@@ -28,7 +28,7 @@ const Projects = () => {
             rel="noopener noreferrer"
           >
             <strong>GitHub</strong>
-          </a>{" "}
+          </a>{"   "}
           <a
             href="https://job-portal-project-7030.onrender.com/api-doc/"
             target="_blank"
@@ -60,7 +60,7 @@ const Projects = () => {
             rel="noopener noreferrer"
           >
             <strong>GitHub</strong>
-          </a>{" "}
+          </a>{"   "}
           <a
             href="https://chatup-mern-project.onrender.com"
             target="_blank"
@@ -91,7 +91,7 @@ const Projects = () => {
             rel="noopener noreferrer"
           >
             <strong>GitHub</strong>
-          </a>{" "}
+          </a>{"   "}
           <a
             href="https://path-finder-algorithm-ashy.vercel.app/"
             target="_blank"
@@ -122,7 +122,7 @@ const Projects = () => {
             rel="noopener noreferrer"
           >
             <strong>GitHub</strong>
-          </a>{" "}
+          </a>{"   "}
           <a
             href="https://merge-sort-visualizer-theta.vercel.app/"
             target="_blank"
@@ -154,7 +154,7 @@ const Projects = () => {
             rel="noopener noreferrer"
           >
             <strong>GitHub</strong>
-          </a>{" "}
+          </a>{"   "}
           <a
             href="https://docs.google.com/document/d/1pPjU_y3AD-6eduPgOj6Azp96vuiBiKtLK7XMUcO5IiY/edit#heading=h.z6ne0og04bp5"
             target="_blank"
@@ -176,7 +176,7 @@ const Projects = () => {
             rel="noopener noreferrer"
           >
             <strong>GitHub</strong>
-          </a>{" "}
+          </a>{"   "}
            <a
             href="https://drive.google.com/file/d/1kXIMGM6032qGolghOpxVGwmazvgBV_hZ/view"
             target="_blank"
