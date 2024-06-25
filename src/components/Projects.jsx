@@ -155,6 +155,13 @@ const Projects = () => {
           >
             <strong>GitHub</strong>
           </a>{" "}
+          <a
+            href="https://docs.google.com/document/d/1pPjU_y3AD-6eduPgOj6Azp96vuiBiKtLK7XMUcO5IiY/edit#heading=h.z6ne0og04bp5"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <strong>Report Link</strong>
+          </a>
         </div>
         <div className={styles.card}>
           <h3>
@@ -170,6 +177,13 @@ const Projects = () => {
           >
             <strong>GitHub</strong>
           </a>{" "}
+           <a
+            href="https://drive.google.com/file/d/1kXIMGM6032qGolghOpxVGwmazvgBV_hZ/view"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <strong>Video Link</strong>
+          </a>
         </div>
       </div>
     </section>
