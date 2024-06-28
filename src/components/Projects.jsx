@@ -70,6 +70,26 @@ const Projects = () => {
           </a>
         </div>
         <div className={styles.card}>
+          <h3>InternNest (Node.js, Express, React.js, MongoDB, Socket.io)</h3>
+          <p>
+            Welcome to InternNest! This project is built using Node.js, Express, React.js, MongoDB, and Socket.io. InternNest is designed to connect landlords and users, making it particularly useful for interns who are looking for a place to stay or want to rent their place temporarily. Landlords can post rental listings for their properties, whether temporarily or permanently, and users searching for an apartment can browse these listings and chat with property owners through a real-time chat application integrated into the platform. The application employs JWT tokens for secure authorization and authentication, ensuring that user data and interactions are protected. This project demonstrates my proficiency in building full-stack applications with real-time communication and secure user management.
+          </p>
+          <a
+            href="https://github.com/sanketauti8/InternNest-Backend"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <strong>GitHub</strong>
+          </a>{"   "}
+          <a
+            href="https://internify-frontend.onrender.com/login"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <strong>Live Link</strong>
+          </a>
+        </div>
+        <div className={styles.card}>
           <h3>Path Finder (React.js, Dijkstra Algorithm)</h3>
           <p>
             The Path Finder Application, implemented using React, provides a
