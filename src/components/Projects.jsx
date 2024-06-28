@@ -185,6 +185,28 @@ const Projects = () => {
             <strong>Video Link</strong>
           </a>
         </div>
+        <div className={styles.card}>
+          <h3>
+           Video Chat App (Node.js, React.js, WebRTC, Socket.io, HTML/CSS)
+          </h3>
+          <p>
+           Welcome to the Video Chat App! This application, built using Node.js, Socket.io, React.js, and WebRTC, allows you to connect and chat with friends over video in real-time. It features high-quality video and audio communication, a user-friendly interface, and scalability for efficient performance. The backend is powered by Node.js and Socket.io, ensuring robust and real-time communication, while the frontend, developed with React.js, provides a responsive and intuitive user experience. WebRTC is utilized for seamless video and audio streaming, ensuring a smooth and uninterrupted chat experience. This project showcases modern web technologies and highlights my ability to create efficient, scalable, and user-centric applications.
+          </p>
+          <a
+            href="https://github.com/OmkarDedge/video-chat-app"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <strong>GitHub</strong>
+          </a>{"   "}
+           <a
+            href="https://drive.google.com/file/d/1o1KFTCAsas0djX7UBGVqcFFLZatudoPN/view?usp=sharing"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <strong>Video Link</strong>
+          </a>
+        </div>
       </div>
     </section>
   );
