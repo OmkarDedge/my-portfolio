@@ -227,6 +227,28 @@ const Projects = () => {
             <strong>Video Link</strong>
           </a>
         </div>
+        <div className={styles.card}>
+          <h3>
+           Streamify (Node.js, RTMP, Socket.io, FFmpeg, Docker)
+          </h3>
+          <p>
+           Streamify is a custom streaming server that empowers users to broadcast live content to YouTube and other platforms. Developed in Node.js, Streamify utilizes FFmpeg for efficient video processing and transferring. By leveraging the Real-Time Messaging Protocol (RTMP), it ensures smooth and real-time video streaming. The project is containerized using Docker, simplifying deployment and management. Streamify showcases my skills in backend development, real-time communication, and containerization, reflecting my ability to create scalable and efficient streaming solutions.
+          </p>
+          <a
+            href="https://github.com/OmkarDedge/streamify"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <strong>GitHub</strong>
+          </a>{"   "}
+           <a
+            href="https://drive.google.com/file/d/1dKJeobO3ugC2Mzpo8n7p4eTPHrDGmVrO/view?usp=sharing"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <strong>Video Link</strong>
+          </a>
+        </div>
       </div>
     </section>
   );
