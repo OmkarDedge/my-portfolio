@@ -1,24 +1,22 @@
-// src/App.js
-import React from "react";
-import Header from "./components/Header.jsx";
-import About from "./components/About.jsx";
-import Experience from "./components/Experience.jsx";
-import Projects from "./components/Projects.jsx";
-import Skills from "./components/Skills.jsx";
-import Education from "./components/Education.jsx";
-import Contact from "./components/Contact.jsx";
-import styles from "./App.module.css";
+import Contact from "./components/Contact";
+import Education from "./components/Education";
+import Footer from "./components/Footer";
+import Intro from "./components/Intro";
+import Navbar from "./components/Navbar";
+import Projects from "./components/Projects";
+import Skills from "./components/Skills";
+import WorkExp from "./components/WorkExp";
 
 function App() {
   return (
-    <div>
-      <Header />
-      <About />
-      <Experience />
-      <Projects />
+    <div className="App">
+      <Navbar />
+      <Intro />
+      <WorkExp />
       <Skills />
+      <Projects />
       <Education />
-      <Contact />
+      <Footer />
     </div>
   );
 }
