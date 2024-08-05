@@ -19,10 +19,16 @@ const Projects = () => {
               ensure data safety. The system delivers a seamless user experience
               while maintaining strict security protocols.
             </p>
-            <a href="https://github.com/OmkarDedge/Job-Portal-Project">
+            <a
+              href="https://github.com/OmkarDedge/Job-Portal-Project"
+              target="_blank"
+            >
               GitHub
             </a>
-            <a href="https://job-portal-project-7030.onrender.com/api-doc/">
+            <a
+              href="https://job-portal-project-7030.onrender.com/api-doc/"
+              target="_blank"
+            >
               Live Link
             </a>
           </div>
@@ -42,10 +48,15 @@ const Projects = () => {
               system provides a user-friendly and secure platform for efficient
               communication and profile management.
             </p>
-            <a href="https://github.com/OmkarDedge/ChatUp-MERN_Project">
+            <a
+              href="https://github.com/OmkarDedge/ChatUp-MERN_Project"
+              target="_blank"
+            >
               GitHub
             </a>
-            <a href="https://chatup-mern-project.onrender.com/">Live Link</a>
+            <a href="https://chatup-mern-project.onrender.com/" target="_blank">
+              Live Link
+            </a>
           </div>
         </div>
 
@@ -62,10 +73,16 @@ const Projects = () => {
               project showcases my skills in building full-stack applications
               with real-time communication and secure user management.
             </p>
-            <a href="https://github.com/sanketauti8/InternNest-Backend">
+            <a
+              href="https://github.com/sanketauti8/InternNest-Backend"
+              target="_blank"
+            >
               GitHub
             </a>
-            <a href="https://internify-frontend.onrender.com/login">
+            <a
+              href="https://internify-frontend.onrender.com/login"
+              target="_blank"
+            >
               Live Link
             </a>
           </div>
@@ -82,10 +99,16 @@ const Projects = () => {
               interactive visualization of pathfinding algorithms with a
               user-friendly interface.
             </p>
-            <a href="https://github.com/OmkarDedge/path-finder-algorithm">
+            <a
+              href="https://github.com/OmkarDedge/path-finder-algorithm"
+              target="_blank"
+            >
               GitHub
             </a>
-            <a href="https://path-finder-algorithm-ashy.vercel.app/">
+            <a
+              href="https://path-finder-algorithm-ashy.vercel.app/"
+              target="_blank"
+            >
               Live Link
             </a>
           </div>
@@ -102,10 +125,16 @@ const Projects = () => {
               understanding of sorting algorithms and demonstrates React's
               ability to create engaging educational tools.
             </p>
-            <a href="https://github.com/OmkarDedge/merge-sort-visualizer">
+            <a
+              href="https://github.com/OmkarDedge/merge-sort-visualizer"
+              target="_blank"
+            >
               GitHub
             </a>
-            <a href="https://merge-sort-visualizer-theta.vercel.app/">
+            <a
+              href="https://merge-sort-visualizer-theta.vercel.app/"
+              target="_blank"
+            >
               Live Link
             </a>
           </div>
@@ -125,8 +154,16 @@ const Projects = () => {
               reliability, and high performance, providing comprehensive
               insights into the Ebola dataset.
             </p>
-            <a href="https://github.com/OmkarDedge/ebola-analysis">GitHub</a>
-            <a href="https://docs.google.com/document/d/1pPjU_y3AD-6eduPgOj6Azp96vuiBiKtLK7XMUcO5IiY/edit?pli=1#heading=h.z6ne0og04bp5">
+            <a
+              href="https://github.com/OmkarDedge/ebola-analysis"
+              target="_blank"
+            >
+              GitHub
+            </a>
+            <a
+              href="https://docs.google.com/document/d/1pPjU_y3AD-6eduPgOj6Azp96vuiBiKtLK7XMUcO5IiY/edit?pli=1#heading=h.z6ne0og04bp5"
+              target="_blank"
+            >
               Report Link
             </a>
           </div>
@@ -146,8 +183,16 @@ const Projects = () => {
               design. Real-time synchronization via Socket.io ensures instant
               updates, with changes securely stored in the database.
             </p>
-            <a href="https://github.com/OmkarDedge/document-writer">GitHub</a>
-            <a href="https://drive.google.com/file/d/1T8P98YQDZxVVITNDlZKb417btrYXlb2J/view">
+            <a
+              href="https://github.com/OmkarDedge/document-writer"
+              target="_blank"
+            >
+              GitHub
+            </a>
+            <a
+              href="https://drive.google.com/file/d/1T8P98YQDZxVVITNDlZKb417btrYXlb2J/view"
+              target="_blank"
+            >
               Video Link
             </a>
           </div>
@@ -168,8 +213,16 @@ const Projects = () => {
               demonstrates my ability to create efficient, scalable, and
               user-centric applications using modern web technologies.
             </p>
-            <a href="https://github.com/OmkarDedge/video-chat-app">GitHub</a>
-            <a href="https://drive.google.com/file/d/1Di8tpElmlFmDf9_GSsX_by8zhCXlaFBq/view">
+            <a
+              href="https://github.com/OmkarDedge/video-chat-app"
+              target="_blank"
+            >
+              GitHub
+            </a>
+            <a
+              href="https://drive.google.com/file/d/1Di8tpElmlFmDf9_GSsX_by8zhCXlaFBq/view"
+              target="_blank"
+            >
               Video Link
             </a>
           </div>
@@ -188,8 +241,13 @@ const Projects = () => {
               containerization, showcasing my ability to create scalable and
               efficient streaming solutions.
             </p>
-            <a href="https://github.com/OmkarDedge/streamify">GitHub</a>
-            <a href="https://drive.google.com/file/d/1dKJeobO3ugC2Mzpo8n7p4eTPHrDGmVrO/view">
+            <a href="https://github.com/OmkarDedge/streamify" target="_blank">
+              GitHub
+            </a>
+            <a
+              href="https://drive.google.com/file/d/1dKJeobO3ugC2Mzpo8n7p4eTPHrDGmVrO/view"
+              target="_blank"
+            >
               Video Link
             </a>
           </div>

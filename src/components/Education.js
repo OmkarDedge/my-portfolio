@@ -7,17 +7,17 @@ const Education = () => {
       <span className="eduTitle">Education</span>
       <div className="eduText">
         <h2>Master of Science in Computer Science</h2>
-        <p>California State University Fullerton, 2023-2024</p>
+        <h4>California State University Fullerton, 2023-2024</h4>
         <p>
-          Relevent Coursework : Artificial Intelligence, Machine Learning, Data
-          Structures and Algorithms
+          <span className="course-work">Relevent Coursework</span> : Artificial
+          Intelligence, Machine Learning, Data Structures and Algorithms
         </p>
 
-        <h2>Bachelor of Science in Computer Science</h2>
-        <p>SavitriBai Phule Pune University, 2017-2021</p>
+        <h2 className="heading">Bachelor of Science in Computer Science</h2>
+        <h4>SavitriBai Phule Pune University, 2017-2021</h4>
         <p>
-          Relevent Coursework : Web-Backend Engineering, Advance Database
-          Systems, Advance Algorithms
+          <span className="course-work">Relevent Coursework</span> : Web-Backend
+          Engineering, Advance Database Systems, Advance Algorithms
         </p>
       </div>
     </section>
